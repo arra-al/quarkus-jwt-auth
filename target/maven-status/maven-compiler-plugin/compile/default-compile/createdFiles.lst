@@ -1,0 +1,7 @@
+com\arra\test\domain\User.class
+com\arra\test\web\rest\AuthResource.class
+com\arra\test\AppLifecycleBean.class
+com\arra\test\config\AppConfig.class
+com\arra\test\web\rest\UserResource.class
+com\arra\test\repository\UserRepository.class
+com\arra\test\web\vm\UserVM.class
